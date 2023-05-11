@@ -242,7 +242,7 @@ const projects = [
   {
     name: "Easter Special Promo",
     description:
-      "As the promo unfolds, immerse yourself in the biblical words that depict the glorious moment when Jesus emerged from the tomb, bringing hope, redemption, and eternal life to all who believe..",
+      "As the promo unfolds, immerse yourself for the glorious moment when Jesus emerged from the tomb, bringing hope, redemption, and eternal life to all who believe..",
     tags: [
       {
         name: "Risen",
