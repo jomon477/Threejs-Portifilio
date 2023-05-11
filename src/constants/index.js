@@ -219,7 +219,7 @@ const projects = [
     source_code_link: "https://drive.google.com/file/d/1LfRsjF_zO9-WlJz40lj9AKAFxojff9JC/view?usp=share_link",
   },
   {
-    name: "Job IT",
+    name: "Food Fest Promo",
     description:
       "Official Promo of the Delicacy Food Fest. This menu promo video is just a glimpse of the delectable delights that await you. With its interactive features, vibrant visuals.",
     tags: [
@@ -232,7 +232,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Designed@AE",
+        name: "AE",
         color: "pink-text-gradient",
       },
     ],
