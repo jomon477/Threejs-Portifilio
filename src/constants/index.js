@@ -200,7 +200,7 @@ const projects = [
   {
     name: "Yip Ofiicial Promo",
     description:
-      "Yip Innovators Program 5.0 Offical Promo. It was in done After Effects 2022 ",
+      "Yip Innovators Program 5.0 Offical Promo. It was spread widely on schools for promotion.It was in done After Effects 2022 ",
     tags: [
       {
         name: "KDISC",
