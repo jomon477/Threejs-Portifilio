@@ -69,11 +69,11 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Following projects showcases my skills and experience through
-          real-world examples of my work. Each project is briefly described with
-          links to code repositories and live demos in it. It reflects my
-          ability to solve complex problems, work with different technologies,
-          and manage projects effectively.
+          I take pride in showcasing the remarkable works of mine,
+           whose creativity and technical expertise have transformed ordinary footage into captivating visual stories.
+            With a keen eye for detail and a passion for storytelling, our video editor consistently delivers high-quality 
+            and impactful videos that leave a lasting impression on viewers.Take a moment to explore the 
+           impressive array of projects that highlight my remarkable skills..
         </motion.p>
       </div>
 
