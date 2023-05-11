@@ -198,9 +198,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Yip Ofiicial Promo",
+    name: "Yip 5.0 Promo",
     description:
-      "Yip Innovators Program 5.0 Offical Promo. It was spread widely on schools for promotion.It was in done After Effects 2022 ",
+      "YIP 5.0 Promo,crafted with the help of software After Effects 2022.The promo captures the essence of YIP, highlighting its key features and the incredible opportunities.",
     tags: [
       {
         name: "KDISC",
@@ -221,23 +221,23 @@ const projects = [
   {
     name: "Job IT",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Official Promo of the Delicacy Food Fest. This menu promo video is just a glimpse of the delectable delights that await you. With its interactive features, vibrant visuals.",
     tags: [
       {
-        name: "react",
+        name: "foodmenu",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "colorful",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Designed@AE",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://drive.google.com/file/d/12VzSKj7S7HwQyUyfUhN2kRWxAnyiWxiC/view?usp=share_link",
   },
   {
     name: "Trip Guide",
