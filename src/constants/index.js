@@ -211,7 +211,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "#YIP5.0",
+        name: "YIP5.0",
         color: "pink-text-gradient",
       },
     ],
