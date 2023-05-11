@@ -203,15 +203,15 @@ const projects = [
       "Yip Innovators Program 5.0 Offical Promo. It was in done After Effects 2022 ",
     tags: [
       {
-        name: "react",
+        name: "KDISC",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "AfterEffects2022",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "#YIP5.0",
         color: "pink-text-gradient",
       },
     ],
