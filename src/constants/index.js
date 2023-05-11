@@ -198,7 +198,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Yip Innovators Program 5.0 Offical Promo",
+    name: "Yip Ofiicial Promo",
     description:
       "Yip Innovators Program 5.0 Offical Promo. It was in done After Effects 2022 ",
     tags: [
