@@ -240,25 +240,25 @@ const projects = [
     source_code_link: "https://drive.google.com/file/d/12VzSKj7S7HwQyUyfUhN2kRWxAnyiWxiC/view?usp=share_link",
   },
   {
-    name: "Trip Guide",
+    name: "Easter Special Promo",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "As the promo unfolds, immerse yourself in the biblical words that depict the glorious moment when Jesus emerged from the tomb, bringing hope, redemption, and eternal life to all who believe..",
     tags: [
       {
-        name: "nextjs",
+        name: "Risen",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Jesus",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "23",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://drive.google.com/file/d/11J2pk0iRiiuFEB8He2D6Ju99ep8cartT/view?usp=share_link",
   },
 ];
 
